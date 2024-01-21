@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I love undertime slopper
+- pretty empty for now :/ dont use this for version control
 <!--
 **theoplegends/theoplegends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
