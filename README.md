@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- pretty empty for now :/ dont use this for version control
+- not empty anymore look at my projects pretty insane crazy stuff
 <!--
 **theoplegends/theoplegends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
